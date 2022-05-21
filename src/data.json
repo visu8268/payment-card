@@ -1,0 +1,30 @@
+{
+    "datafirst":[
+{
+    "id":"0",
+    "date":"28/10/2020",
+    "logo":"https://img.icons8.com/color/344/amazon.png",
+    "extra":"Case Study",
+    "heading":"Amazon Gift",
+    "subheading":"Pay",
+    "devices":"Desktop-Mobile",
+    "color":"#FFA500",
+
+    "icon":"→"
+},
+
+{
+    "id":"1",
+    "date":"17 sept 2020",
+    "logo":"https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png",
+    "extra":"Case Study",
+    "heading":"Apple Gift",
+    "subheading":"Payment",
+    "devices":"MacOS - Mobile",
+    "color":"#F5F5F5",
+
+    "icon":"→"
+}
+
+    ]
+}
